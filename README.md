@@ -141,6 +141,27 @@ Techniques used included:
 * Trend Analysis
 <img width="480" height="368" alt="Image" src="https://github.com/user-attachments/assets/383e2fa3-40d3-4f38-8e4a-abd77d1a7448" />
 
+## Project Workflow
+
+Business Requirements
+        ↓
+Data Collection
+        ↓
+SQL Data Cleaning & Integration
+        ↓
+Exploratory Data Analysis (EDA)
+        ↓
+Power BI Data Modeling
+        ↓
+DAX Measure Development
+        ↓
+Dashboard Creation
+        ↓
+Insight Generation
+        ↓
+Business Recommendations
+
+
 ## Tools Used
 
 * SQL Server
