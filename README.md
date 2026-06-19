@@ -143,24 +143,6 @@ Techniques used included:
 
 ## Project Workflow
 
-Business Requirements
-        ↓
-Data Collection
-        ↓
-SQL Data Cleaning & Integration
-        ↓
-Exploratory Data Analysis (EDA)
-        ↓
-Power BI Data Modeling
-        ↓
-DAX Measure Development
-        ↓
-Dashboard Creation
-        ↓
-Insight Generation
-        ↓
-Business Recommendations
-
 
 ## Tools Used
 
