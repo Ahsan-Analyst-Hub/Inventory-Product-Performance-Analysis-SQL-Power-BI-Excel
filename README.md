@@ -1,4 +1,5 @@
 # Inventory & Product Performance Analysis | SQL, Power BI & Excel
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/629d3ea8-032d-4ac6-a83c-ad93cf355ea4" />
 
 ## Project Overview
 
@@ -114,6 +115,19 @@ The cleaned and integrated Full Inventory dataset was imported into Power BI.
 * Product Discontinuation Analysis
 * Monthly Demand Trend Analysis
 
+### Dashboard 01
+<img width="640" height="361" alt="Image" src="https://github.com/user-attachments/assets/3e19e224-5866-4d57-99de-304bd9008bce" />
+
+### Dashboard 02
+<img width="639" height="360" alt="Image" src="https://github.com/user-attachments/assets/60a1dd6e-eaef-45b2-9dc0-e8e864ca1581" />
+
+### Dashboard 03
+<img width="639" height="361" alt="Image" src="https://github.com/user-attachments/assets/08acd6f6-57ee-4f91-87a7-6df2d48d94eb" />
+
+### Dashboard 04
+<img width="641" height="361" alt="Image" src="https://github.com/user-attachments/assets/e8e52376-ebd8-4882-bdd8-7cf6586dccaf" />
+
+
 ## Excel Analysis
 
 Following Power BI development, the Full Inventory dataset was also analyzed in Excel to validate calculations and support additional ad-hoc analysis.
@@ -125,6 +139,7 @@ Techniques used included:
 * Conditional Formatting
 * Product Performance Summaries
 * Trend Analysis
+<img width="480" height="368" alt="Image" src="https://github.com/user-attachments/assets/383e2fa3-40d3-4f38-8e4a-abd77d1a7448" />
 
 ## Tools Used
 
