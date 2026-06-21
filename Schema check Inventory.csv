@@ -1,0 +1,4 @@
+﻿Order_Date_DD_MM_YYYY,date,NULL,NULL,NULL,NO,NULL
+Product_ID,tinyint,NULL,3,0,NO,NULL
+Availability,tinyint,NULL,3,0,NO,NULL
+Demand,tinyint,NULL,3,0,NO,NULL
