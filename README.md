@@ -1,4 +1,4 @@
-# Spark BI -- Inventory & Product Performance Analysis | SQL, Power BI & Excel
+# Spark BI - Inventory & Product Performance Analysis | SQL, PowerBI, DAX & Excel
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/629d3ea8-032d-4ac6-a83c-ad93cf355ea4" />
 
 ## Project Overview
